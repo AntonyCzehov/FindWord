@@ -1,0 +1,15 @@
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\bin\Debug\FindWords.exe.config
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\bin\Debug\FindWords.exe
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\bin\Debug\FindWords.pdb
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords.csproj.AssemblyReference.cache
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\MainWindow.g.cs
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\App.g.cs
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords_MarkupCompile.cache
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords_MarkupCompile.lref
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\MainWindow.baml
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords.g.resources
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords.Properties.Resources.resources
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords.csproj.GenerateResource.cache
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords.csproj.CoreCompileInputs.cache
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords.exe
+C:\Users\nikon\OneDrive\Desktop\TestVS\FindWords\FindWords\obj\Debug\FindWords.pdb
